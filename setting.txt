@@ -1,0 +1,19 @@
+github.com
+
+gitdownload해서 다운로드 받기
+
+visual studio code 다운로드
+(줄여서 vs code)
+
+anaconda3 설치(파이썬 도와주는 애 더 큰 개념)
+
+바탕화면에 공부할 파일 만들어 doobini
+들어가서 오른쪽 마우스 > 추가옵션표시 > Git Bash here
+자료에 들어가서 기본 설정하는 거 확인
+
+
+자료받기
+girhub.com 들어가서 오른쪽에 code 눌러서 복사 후 
+git clone (붙여넣기)https://github.com/devsosin/soobin-python.git
+
+
