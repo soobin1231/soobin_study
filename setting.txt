@@ -23,7 +23,8 @@ git push {원격저장소} {브랜치}
 EX)
 git add soobin_study
 git commit -m “enter 추가”
-git push origin master branch
+git push origin master
+
 
 
 오늘 마무리
