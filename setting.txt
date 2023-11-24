@@ -25,6 +25,8 @@ git add soobin_study
 git commit -m “enter 추가”
 git push origin master
 
+자료 받을 때는 git pull origin master
+
 
 
 오늘 마무리
