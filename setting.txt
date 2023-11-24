@@ -16,4 +16,13 @@ anaconda3 설치(파이썬 도와주는 애 더 큰 개념)
 girhub.com 들어가서 오른쪽에 code 눌러서 복사 후 
 git clone (붙여넣기)https://github.com/devsosin/soobin-python.git
 
+git add 파일 이름
+git commit -m “커밋 메시지(변경된 사항 안내하는 메세지)“
+git push {원격저장소} {브랜치}
+
+EX)
+git add soobin_study
+git commit -m “enter 추가”
+git push origin master branch
+
 
